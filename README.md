@@ -26,7 +26,7 @@ This project uses PostgreSQL for the database. The schema includes the following
 
 ## Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <https://github.com/Ashishkr05/food-delivery-REST_API-app>`
 2. Install dependencies: `npm install`
 3. Set up PostgreSQL and configure the database connection in `config.js`.
 4. Run the application: `npm start`
